@@ -13,6 +13,9 @@
 # Target build folder
 target/
 
+# Hide private environment variables
+.env
+
 # Eclipse files
 .project
 .factorypath
